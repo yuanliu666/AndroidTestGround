@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android Test Ground</string>
+    <string name="hello_world_txt">Hello World!</string>
+    <string name="button_txt">Click me</string>
+    <string name="button_txt_clicked">Clicked</string>
+    <string name="hello_world_activity">Hello World Activity</string>
+    <string name="image_activity">Image Activity</string>
+    <string name="button_activity">Button Activity</string>
 </resources>

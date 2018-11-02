@@ -4,7 +4,7 @@ This is a practice repo to play with popular testing suit, namely Espresso, Mock
 ## TODO
 + [x] Test static text view
 + [x] Test static image view
-+ [ ] Test static button
++ [x] Test static button
 + [ ] Test static recycler view
 + [ ] Test with input intent and bundle
 + [ ] Test output intent and bundle
