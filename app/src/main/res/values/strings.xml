@@ -6,4 +6,5 @@
     <string name="hello_world_activity">Hello World Activity</string>
     <string name="image_activity">Image Activity</string>
     <string name="button_activity">Button Activity</string>
+    <string name="recyclerview_activity">Recyclerview Activity</string>
 </resources>

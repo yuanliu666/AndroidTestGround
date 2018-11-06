@@ -16,4 +16,8 @@ object EspressoTestsMatchers {
     fun hasDrawable(): Matcher<View> {
         return DrawableMatcher(DrawableMatcher.ANY)
     }
+
+    fun withRecyclerView(recyclerViewId: Int): RecyclerViewMatcher {
+        return RecyclerViewMatcher(recyclerViewId)
+    }
 }

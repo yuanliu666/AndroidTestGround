@@ -23,5 +23,8 @@ class MainActivity : AppCompatActivity() {
         findViewById<AppCompatButton>(R.id.btn_button_activity).setOnClickListener {
             startActivity(Intent(this, ButtonActivity::class.java))
         }
+        findViewById<AppCompatButton>(R.id.btn_recyclerview_activity).setOnClickListener {
+            startActivity(Intent(this, RecyclerViewActivity::class.java))
+        }
     }
 }

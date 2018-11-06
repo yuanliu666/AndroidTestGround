@@ -24,4 +24,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/button_activity"/>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_recyclerview_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/recyclerview_activity"/>
 </LinearLayout>

@@ -19,5 +19,6 @@
         <activity android:name=".HelloWorldActivity"/>
         <activity android:name=".ImageActivity"/>
         <activity android:name=".ButtonActivity"/>
+        <activity android:name=".RecyclerViewActivity"/>
     </application>
 </manifest>
